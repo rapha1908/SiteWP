@@ -56,6 +56,38 @@
 		</div>
     </div>
 </section>
+<section class="services center">
+	<h2>Contribuimos de ponta em ponta</h2>
+	<div class="itens">
+		<div class="item">
+			<img src="./img/ilustracao-01.png">
+			<h3>Ambiente mobile</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper in massa vel sagittis. Mauris molestie neque eu nulla dignissim, eget sollicitudin metus mollis. Suspendisse ornare, justo at convallis mollis, elit nulla sodales erat, eu lacinia dui erat nec diam. Sed pulvinar, neque sed vulputate elementum, risus ante dictum lorem, ut pretium felis sapien in quam.</p>
+		</div>
+		<div class="item">
+			<img src="./img/ilustracao-02.png">
+			<h3>Ambiente mobile</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper in massa vel sagittis. Mauris molestie neque eu nulla dignissim, eget sollicitudin metus mollis. Suspendisse ornare, justo at convallis mollis, elit nulla sodales erat, eu lacinia dui erat nec diam. Sed pulvinar, neque sed vulputate elementum, risus ante dictum lorem, ut pretium felis sapien in quam.</p>
+		</div>
+		<div class="item">
+			<img src="./img/ilustracao-03.png">
+			<h3>Ambiente mobile</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper in massa vel sagittis. Mauris molestie neque eu nulla dignissim, eget sollicitudin metus mollis. Suspendisse ornare, justo at convallis mollis, elit nulla sodales erat, eu lacinia dui erat nec diam. Sed pulvinar, neque sed vulputate elementum, risus ante dictum lorem, ut pretium felis sapien in quam.</p>
+		</div>
+	</div>
+</section>
+<section class="team center">
+<div class="clear"></div>
+        <div class="w50 info-time">
+            <h2>Um time experiente, comunicador e coeso.</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper in massa vel sagittis. Mauris molestie neque eu nulla dignissim, eget sollicitudin metus mollis. Suspendisse ornare, justo at convallis mollis, elit nulla sodales erat, eu lacinia dui erat nec diam. Sed pulvinar, neque sed vulputate elementum, risus ante dictum lorem, ut pretium felis sapien in quam.</p>
+        </div>
+        <div class="w50 img-team">
+            <img src="./img/ilustracao-04.png" alt="">
+        </div>
+        <div class="clear"></div>
+
+</section>
 <script src="js/jquery.js"></script>
 <script src="js/slick.min.js"></script>
 <script type="text/javascript">

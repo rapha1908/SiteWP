@@ -159,9 +159,32 @@ li.slick-active button{
 
 /**END SLICK**/
 
+/**START SERVICES**/
+.services h2{
+    text-align: center;
+}
+.services .itens{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:20px 0;
+}
+.services .itens .item{
+    padding: 20px;
+    text-align: center;
+    width:300px;
+}
+
+/**END SERVICES**/
 
 
+/**START TEAM**/
 
+.team .info-time{
+    margin-top:200px;
+    padding: 30px;
+}
+/**END TEAM**/
 
 
 
